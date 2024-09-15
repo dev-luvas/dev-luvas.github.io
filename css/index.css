@@ -54,8 +54,13 @@ span{
 body{
 
     font-family: "fira code", sans-serif;
-    background-image: url('../assets/img/a09a5f40-8358-4e74-9df5-50145c7ebaed.jpeg');
+    background-color: #f1f1f1;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
+}
+h2{
+    color: orange;
+    text-shadow: #000 2px 2px 1px;
+    align-items: center;
 }
